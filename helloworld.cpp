@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(String[] args){
-	cout << "hello world" << endl;
-	return 0;
+int main(int argc, char **argv) {
+	cout << "hello world foo bar" << endl;
+	return 1;
 }
